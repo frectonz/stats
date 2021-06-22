@@ -6,6 +6,8 @@ Stored here to conserve it for history.
 
 Our math teacher told us we could use a calculator on a test. So i made a specified calculator that had everything i needed for that test. So it wasn't actually cheating. In case anybody came by to my desk during the test, I made a feature that would allow me to double click on the screen and a calculator would appear so that the person that came by would think i was using a regular calculator.
 
+[Live Preview](https://stats-three.vercel.app/)
+
 ## Main Features
 
 - transform a list of discrete data points and divide them into classes
