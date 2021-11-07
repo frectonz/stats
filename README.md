@@ -2,7 +2,7 @@
 
 A Webapp i made to help me cheat on my math test.
 
-### [Live Preview](https://stats-three.vercel.app/)
+## [Live Preview](https://stats-three.vercel.app/)
 
 Stored here to conserve it for history.
 
